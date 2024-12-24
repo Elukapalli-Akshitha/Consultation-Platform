@@ -27,3 +27,26 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    https://github.com/ncktmahajan/Amrutam-Assignment.git
+
+2. Navigate into the project folder:
+   ```bash
+   cd amrutam-pharmaceuticals
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the local development server:
+   ```bash
+   npm run dev
+   ```
+
+The website will be available at [http://localhost:3000](http://localhost:3000).
+
+## Technologies Used
+
+- **Frontend**: React, Next.js (or another relevant stack)
+- **CSS**: Styled Components (or any CSS framework/library you're using)
+- **Hosting**: Vercel
