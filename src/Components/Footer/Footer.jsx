@@ -35,7 +35,7 @@ const Footer = () => {
             Gwalior - 474001
           </ContactText>
           
-          <ContactText>+91 9713171999</ContactText>
+          <ContactText>+91 123456789</ContactText>
           <SocialIcons>
             <FaFacebookF />
             <FaInstagram />
